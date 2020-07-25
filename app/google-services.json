@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615309175522",
+    "firebase_url": "https://shoponlineproject-70254.firebaseio.com",
+    "project_id": "shoponlineproject-70254",
+    "storage_bucket": "shoponlineproject-70254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615309175522:android:6357d9be2e79fd4bc58cbb",
+        "android_client_info": {
+          "package_name": "com.longlv.shoponlineproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615309175522-ofi3s4qd5s3klmfqp87oc3sneg5plp2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.longlv.shoponlineproject",
+            "certificate_hash": "b83366e9ffe1d1a767a5c5f6d4ff8b9c4ef615b7"
+          }
+        },
+        {
+          "client_id": "615309175522-5dqufhv4adibjr6k0q555o0dmliaf0k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB9jI8KXrd2XKKiAjw25XWWOI-mtJR6WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615309175522-5dqufhv4adibjr6k0q555o0dmliaf0k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
